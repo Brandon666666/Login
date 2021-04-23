@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(https://img.pic88.com/preview/2020/08/05/15966344511449013.jpg?imageMogr2/quality/100!/crop/!640x-0-20|watermark/3/image/aHR0cHM6Ly9qcy5waWM4OC5jb20vd3d3L2NvbW1vbi9pbWcvcGljODgtd2F0ZXIucG5n/gravity/Center/dissolve/100/dx/0/dy/10/image/aHR0cHM6Ly9qcy5waWM4OC5jb20vd3d3L2NvbW1vbi9pbWcvd2gyMzBiZy5wbmc=/dx/0/dy/25/text/SUTvvJoxMjAyMDA4MDUyMDQ3NTQyMDQ0MDA=/fill/I0ZGRkZGRg==/fontsize/320/dx/30/dy/30);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+a {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    font-weight: bold;
+}
+
+#content {
+    margin: 0 auto;
+    margin-top: 150px;
+    padding: 20px 50px;
+    background-color: rgba(196, 121, 36, 0.5);
+    width: 400px;
+    height: 330px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(17, 14, 194);
+}
+
+.wrap {
+    margin-top: 20px;
+}
+
+.inputbox {
+    margin: 0 auto;
+}
+
+.inputbox span {
+    color: white;
+}
+
+.inputbox input {
+    border: 0;
+    margin: 10px;
+    padding: 8px 15px;
+    border-bottom: 1px solid white;
+    background-color: rgb(208, 230, 208);
+    color: rgb(14, 2, 2);
+    border-radius: 10px;
+}
+
+p {
+    margin: 0 auto;
+    font-size: 10px;
+    color: black;
+}
+
+.btn input {
+    cursor: pointer;
+    border: 0;
+    width: 100px;
+    height: 45px;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(18, 8, 151);
+    margin-top: 20px;
+    border-radius: 20px;
+    background-image: linear-gradient(to right, #b8cbb8 0%, #b8cbb8 0%, #b465da 0%, #cf6cc9 33%, #ee609c 66%, #ee609c 100%);
+}
